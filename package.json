@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lint-staged": "^15.5.2",
+    "lint-staged": "^16.1.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
